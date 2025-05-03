@@ -1,4 +1,7 @@
-# Dokumentasi Pengujian Fungsional
+# Dokumentasi Pengujian interface login - Pengujian Software Quality
+# Kelompo 7 : 
+- Abdul aziz_20221310019
+- Iqbal yudiana_20221310020
 
 ## Tabel Kasus Pengujian
 
