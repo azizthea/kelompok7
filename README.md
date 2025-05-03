@@ -1,4 +1,7 @@
-# **📋 Dokumentasi Pengujian Fungsional**  
+# **📋 Dokumentasi Pengujian interfce login **  
+# kelompok 7 :
+- abdul aziz : 20221310019
+- iqbal yudiana : 20221310020
 
 **Proyek:** Sistem Login & Registrasi  
 **Versi:** 1.0.0  
