@@ -15,15 +15,15 @@ Berikut adalah tabel pengujian untuk fitur **Login & Registrasi** beserta hasil 
 
 | No | Deskripsi Kebutuhan | User | Sistem | Status | Bukti Pengujian |
 |----|---------------------|------|--------|--------|-----------------|
-| 1  | User dapat memilih menu registrasi pada form login | ✔️ | - | ✅ Lulus | [📸 SS1](./evidence/SS1.png) |
-| 2  | Sistem menampilkan form registrasi dengan data lengkap | - | ✔️ | ✅ Lulus | [📸 SS2](./evidence/SS2.png) |
-| 3  | User menginputkan data diri | ✔️ | - | ✅ Lulus | [📸 SS3](./evidence/SS3.png) |
-| 4  | User dapat memilih menu **"Create Akun"** | ✔️ | - | ✅ Lulus | [📸 SS4](./evidence/SS4.png) |
-| 5  | Sistem menampilkan form verifikasi | - | ✔️ | ❌ Gagal | [📸 SS5](./evidence/SS5.png) |
-| 6  | User menginputkan kode verifikasi | ✔️ | - | ⏳ Dalam Proses | [📸 SS6](./evidence/SS6.png) |
-| 7  | Sistem menyimpan data user dan tampilkan halaman login | - | ✔️ | ⏳ Dalam Proses | [📸 SS7](./evidence/SS7.png) |
-| 8  | User dapat memilih tombol **Cancel** | ✔️ | - | ✅ Lulus | [📸 SS8](./evidence/SS8.png) |
-| 9  | Sistem menampilkan halaman utama | - | ✔️ | ✅ Lulus | [📸 SS9](./evidence/SS9.png) |
+| 1  | User dapat memilih menu registrasi pada form login |  |  |   | [📸 SS1](./evidence/SS1.png) |
+| 2  | Sistem menampilkan form registrasi dengan data lengkap | - |  |  | [📸 SS2](./evidence/SS2.png) |
+| 3  | User menginputkan data diri |  |  |  | [📸 SS3](./evidence/SS3.png) |
+| 4  | User dapat memilih menu **"Create Akun"** |  |  | | [📸 SS4](./evidence/SS4.png) |
+| 5  | Sistem menampilkan form verifikasi |  |  |  | [📸 SS5](./evidence/SS5.png) |
+| 6  | User menginputkan kode verifikasi | |  | ⏳ Dalam Proses | [📸 SS6](./evidence/SS6.png) |
+| 7  | Sistem menyimpan data user dan tampilkan halaman login |  |  | ⏳ Dalam Proses | [📸 SS7](./evidence/SS7.png) |
+| 8  | User dapat memilih tombol **Cancel** |  |  |  | [📸 SS8](./evidence/SS8.png) |
+| 9  | Sistem menampilkan halaman utama | |  |  | [📸 SS9](./evidence/SS9.png) |
 
 ---
 
