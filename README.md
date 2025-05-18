@@ -1,7 +1,8 @@
 # **📋 Dokumentasi Pengujian interfce login **  
 # kelompok 7 :
-- abdul aziz : 20221310019
-- iqbal yudiana : 20221310020
+- Abdul Aziz : 20221310019
+- Iqbal Yudiana : 20221310020
+- Tiara Putri Latifani Dianata : 20221310086
 
 **Proyek:** Sistem Login & Registrasi  
 **Versi:** 1.0.0  
