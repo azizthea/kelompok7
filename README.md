@@ -3,6 +3,7 @@
 - Abdul Aziz : 20221310019
 - Iqbal Yudiana : 20221310020
 - Tiara Putri Latifani Dianata : 20221310086
+- Miftah Rizkia Aldira : 20221310025
 
 **Proyek:** Sistem Login & Registrasi  
 **Versi:** 1.0.0  
